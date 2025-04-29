@@ -1,2 +1,2 @@
-# r-_gener-tor
+# rc_generator
 UDITE_cviceni
